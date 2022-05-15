@@ -32,7 +32,7 @@ The program takes four arguments on the command line. The file name, width, heig
 gcc -ansi -Wall gameOfLife.c -o gameOfLife
 ```
 
-### Executing Program
+### Executing the Program
 
 * Use the example files to test the program.
 * Run the following command to run the program.
