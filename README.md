@@ -67,4 +67,4 @@ gcc -ansi -Wall gameOfLife.c -o gameOfLife
 
 Suraj Rohira
 
-suraj.rohira0@gmail.com
+Contact: suraj.rohira0@gmail.com
