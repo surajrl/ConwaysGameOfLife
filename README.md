@@ -66,4 +66,5 @@ gcc -ansi -Wall gameOfLife.c -o gameOfLife
 ## Author
 
 Suraj Rohira
+
 suraj.rohira0@gmail.com
