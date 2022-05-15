@@ -62,5 +62,8 @@ gcc -ansi -Wall gameOfLife.c -o gameOfLife
 ```
 ./gameOfLife traffic 6 6 6
 ```
-  
-  
+
+## Author
+
+Suraj Rohira
+suraj.rohira0@gmail.com
